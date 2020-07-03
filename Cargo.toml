@@ -2,7 +2,7 @@
 name = "range_sampling"
 version = "0.1.0"
 authors = ["SIRS-SIGMOD <sirs.sigmod@gmail.com>"]
-edition = "2020"
+edition = "2018"
 
 [dependencies]
 rand = { version = "0.7.2", features = ["small_rng"] }
